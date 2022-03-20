@@ -1,0 +1,2 @@
+# mtkWave
+GTKWave v2
